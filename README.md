@@ -3,3 +3,5 @@ Makes Mastodon look like 4chan. Copied from [@daisuke@stereophonic.space](https:
 
 Live demo: https://ayanami.ga/fedichan/  
 Original source: https://ayanami.ga/fedichan/code.html
+
+(I am not the original author; simply archiving) 
